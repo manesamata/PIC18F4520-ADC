@@ -1,0 +1,1 @@
+This project demonstrates Analog-to-Digital Converter (ADC) interfacing using the PIC18F4520 microcontroller and Embedded C. The ADC module converts an analog input voltage into a digital value that can be processed by the microcontroller.
